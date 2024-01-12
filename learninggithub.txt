@@ -1,0 +1,6 @@
+I'm starting to learn GitHub.
+Merge is a Git command used to integrate changes from one branch into another.cls
+Local repositories reside on the developer's machine, while remote repositories are hosted on a server.
+Local repositories reside on the developer's machine, while remote repositories are hosted on a server.
+Local repositories reside on the developer's machine, while remote repositories are hosted on a server.
+Local repositories reside on the developer's machine, while remote repositories are hosted on a server.
